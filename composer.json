@@ -1,0 +1,14 @@
+{
+    "name": "eniack/validation",
+    "autoload": {
+        "psr-4": {
+            "EniackValidation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "farshid moradi"
+        }
+    ],
+    "require": {}
+}
