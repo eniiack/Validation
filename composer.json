@@ -10,5 +10,6 @@
             "name": "farshid moradi"
         }
     ],
+    "license": ["MIT"],
     "require": {}
 }
