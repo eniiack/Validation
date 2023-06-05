@@ -1,5 +1,5 @@
 {
-    "name": "FarshidMoradi/validation",
+    "name": "farshidmoradi/validation",
     "autoload": {
         "psr-4": {
             "EniackValidation\\": "src/"
